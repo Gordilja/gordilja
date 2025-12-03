@@ -31,3 +31,4 @@ I enjoy building gameplay systems, multiplayer prototypes, and experimenting wit
 📫 How to reach me  
 - GitHub: here 😄  
 - [LinkedIn](https://www.linkedin.com/in/milangordic3/)
+- [Portfolio](https://gordilja.github.io)
