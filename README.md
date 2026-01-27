@@ -1,32 +1,26 @@
-## Hi there 👋
+## Hey 👋
 
-🎮 Game developer focused on Unity, with growing experience in Unreal Engine.  
-I enjoy building gameplay systems, multiplayer prototypes, and experimenting with new mechanics and tools.
+🎮 Game dev here. Work mostly in Unity but I've been messing with Unreal more lately. Build gameplay systems, multiplayer stuff, prototype random mechanics.
+Right now:
 
 🔭 I’m currently working on  
-- Gameplay systems and prototypes in Unity  
-- Multiplayer mechanics and networking experiments  
-- Transitioning more into Unreal Engine & C++
+- Making prototypes in Unity and Unreal
+- Multiplayer experiments—using Photon Fusion
 
-🌱 I’m currently learning  
-- Unreal Engine (C++ workflows, architecture)  
-- Better game architecture and optimization practices  
+🌱 I’m currently learning :
+- Unreal Engine C++ (still getting the hang of it)
+- Better code structure and performance tricks
 
-👯 I’m looking to collaborate on  
-- Small to mid-size game projects or full time commitment   
-- Gameplay programming tasks  
-- Prototypes or experimental ideas
+👯 I’m looking for:
+- Freelance work or full-time gigs
+- Gameplay programming
+- Prototype projects
 
-🤔 I’m looking for help with  
-- Advanced Unreal Engine patterns  
-- Multiplayer scaling and best practices  
-- Performance optimization in real-world projects
-
-💬 Ask me about  
-- Unity & C#  
-- Gameplay systems & prototyping  
-- Multiplayer game logic  
-- Moving from Unity to Unreal
+💬 Ask me about:
+- Unity/C#
+- Multiplayer—client/server, matchmaking, session handling
+- Fast prototyping
+- Unity to Unreal transition (been through it)
 
 📫 How to reach me  
 - GitHub: here 😄  
