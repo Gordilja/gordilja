@@ -1,28 +1,25 @@
 ## Hey 👋
 
-🎮 Game dev here. Work mostly in Unity but I've been messing with Unreal more lately. Build gameplay systems, multiplayer stuff, prototype random mechanics.
-Right now:
+🎮 Game developer working mostly in Unity and C#, focused on gameplay systems and multiplayer. I also build competitive Fortnite islands in UEFN with Verse.
 
-🔭 I’m currently working on  
-- Making prototypes in Unity and Unreal
-- Multiplayer experiments—using Photon Fusion
+### 🔭 Currently working on
+- **Geometry Crunch**: an online multiplayer arena game built with Photon Quantum (deterministic netcode), with bot AI made in Photon's Bot SDK. [See the code sample →](LINK)
+- My next UEFN island, experimenting with Scene Graph and custom physics
 
-🌱 I’m currently learning :
-- Unreal Engine C++ (still getting the hang of it)
-- Better code structure and performance tricks
+### 🌱 Currently learning
+- Unreal Engine C++
+- Photon Bot SDK (state machines for bots)
 
-👯 I’m looking for:
-- Freelance work or full-time gigs
-- Gameplay programming
-- Prototype projects
+### 👯 Open to
+- Freelance and contract work (part-time, remote)
+- Gameplay programming, multiplayer systems, UEFN/Verse islands
 
-💬 Ask me about:
-- Unity/C#
-- Multiplayer—client/server, matchmaking, session handling
-- Fast prototyping
-- Unity to Unreal transition (been through it)
+### 💬 Ask me about
+- Unity / C#
+- Multiplayer: Photon PUN 2, Fusion and Quantum; matchmaking, sessions, client/server
+- Verse: scoring, leaderboards and round systems
+- Performance optimization and fast prototyping
 
-📫 How to reach me  
-- GitHub: here 😄  
+### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/milangordic3/)
-- [Portfolio](https://gordilja.github.io)
+- [Portfolio](https://gordilja.github.io/)
