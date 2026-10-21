@@ -3,7 +3,7 @@
 🎮 Game developer working mostly in Unity and C#, focused on gameplay systems and multiplayer. I also build competitive Fortnite islands in UEFN with Verse.
 
 ### 🔭 Currently working on
-- **Geometry Crunch**: an online multiplayer arena game built with Photon Quantum (deterministic netcode), with bot AI made in Photon's Bot SDK. [See the code sample →](LINK)
+- **Geometry Crunch**: an online multiplayer arena game built with Photon Quantum (deterministic netcode), with bot AI made in Photon's Bot SDK.
 - My next UEFN island, experimenting with Scene Graph and custom physics
 
 ### 🌱 Currently learning
